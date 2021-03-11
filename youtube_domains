@@ -1,0 +1,12 @@
+
+# Name: Pihole Blocklist
+# URL: https://github.com/jeffgrover/pihole
+# Last update: 09 March, 2021
+
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 www.gstatic.com
