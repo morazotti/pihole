@@ -1,0 +1,13 @@
+# Name: Pihole Blocklist for perseveration toppics
+# URL: https://github.com/jeffgrover/pihole
+# Last update: 23 April, 2021
+
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 www.deviantart.net
+0.0.0.0 www.twitch.tv
+0.0.0.0 twitchcdn.net
+0.0.0.0 www.vimeo.com
+0.0.0.0 www.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 gamasutra.com
+0.0.0.0 www.gamasutra.com
