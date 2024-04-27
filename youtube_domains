@@ -6,11 +6,11 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube.com
 0.0.0.0 m.youtube.com
-0.0.0.0 googlevideo.com
-0.0.0.0 ytimg.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 www.googleapis.com
-0.0.0.0 www.gstatic.com
-0.0.0.0 lostpause.youtubebackups.com
-0.0.0.0 yt3.ggpht.com
-0.0.0.0 youtube-ui.l.google.com
+# 0.0.0.0 googlevideo.com
+# 0.0.0.0 ytimg.com
+# 0.0.0.0 youtubei.googleapis.com
+# 0.0.0.0 www.googleapis.com
+# 0.0.0.0 www.gstatic.com
+0.0.0.0 youtubebackups.com
+# 0.0.0.0 yt3.ggpht.com
+# 0.0.0.0 youtube-ui.l.google.com
