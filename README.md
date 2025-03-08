@@ -40,6 +40,8 @@ Almost everything can be done here in this web UI.
 Go to Group Management | Adlists, and add the following to block nasty porn:
 
 https://raw.githubusercontent.com/jeffgrover/pihole/master/parent_hosts
+or https://nsfw.oisd.nl
+
 
 ## Re-configure the router to use your pihole as DNS for DHCP clients
 
