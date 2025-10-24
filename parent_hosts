@@ -2,6 +2,10 @@
 # URL: https://github.com/mhhakim/pihole-blocklist
 # Last update: 09 January, 2021
 
+0.0.0.0 coomer.su
+0.0.0.0 coomer.st
+0.0.0.0 kemono.cr
+0.0.0.0 kemono.party
 0.0.0.0 livejasmin.com
 0.0.0.0 pornhub.com
 0.0.0.0 xvideos.com
@@ -23737,4 +23741,5 @@
 0.0.0.0 www.www.sexmosaic.com
 0.0.0.0 www.www.tbib.org
 0.0.0.0 www.www.xdeutschpornox.com
+
 0.0.0.0 www.www.yato.com
